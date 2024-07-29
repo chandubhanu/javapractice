@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-02T09:08:08 IST" name="Default suite" finished-at="2024-07-02T09:08:08 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2024-07-02T09:08:08 IST" name="Default test" finished-at="2024-07-02T09:08:08 IST" duration-ms="54">
+      <class name="javaPractice.practicedaywhileloop.day4">
+        <test-method signature="String2()[pri:0, instance:javaPractice.practicedaywhileloop.day4@5f058f00]" started-at="2024-07-02T09:08:08 IST" name="String2" finished-at="2024-07-02T09:08:08 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- String2 -->
+        <test-method signature="String3()[pri:0, instance:javaPractice.practicedaywhileloop.day4@5f058f00]" started-at="2024-07-02T09:08:08 IST" name="String3" finished-at="2024-07-02T09:08:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- String3 -->
+        <test-method signature="String6()[pri:0, instance:javaPractice.practicedaywhileloop.day4@5f058f00]" started-at="2024-07-02T09:08:08 IST" name="String6" finished-at="2024-07-02T09:08:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- String6 -->
+        <test-method signature="string1()[pri:0, instance:javaPractice.practicedaywhileloop.day4@5f058f00]" started-at="2024-07-02T09:08:08 IST" name="string1" finished-at="2024-07-02T09:08:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- string1 -->
+        <test-method signature="string4()[pri:0, instance:javaPractice.practicedaywhileloop.day4@5f058f00]" started-at="2024-07-02T09:08:08 IST" name="string4" finished-at="2024-07-02T09:08:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- string4 -->
+        <test-method signature="string5()[pri:0, instance:javaPractice.practicedaywhileloop.day4@5f058f00]" started-at="2024-07-02T09:08:08 IST" name="string5" finished-at="2024-07-02T09:08:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- string5 -->
+      </class> <!-- javaPractice.practicedaywhileloop.day4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
